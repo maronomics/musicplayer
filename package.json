@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/maronomics/musicplayer/issues"
   },
-  "homepage": "https://github.com/maronomics/musicplayer#readme"
+  "homepage": "https://github.com/maronomics/musicplayer#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.1"
+  }
 }
